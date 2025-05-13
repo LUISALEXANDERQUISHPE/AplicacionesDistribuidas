@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Api-Controll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14AA31FB-8591-43CB-B7A2-D96C86971699}|Api-Controll\\Api-Controll.csproj|c:\\users\\asus\\source\\repos\\api-controll\\api-controll\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14AA31FB-8591-43CB-B7A2-D96C86971699}|Api-Controll\\Api-Controll.csproj|solutionrelative:api-controll\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14AA31FB-8591-43CB-B7A2-D96C86971699}|Api-Controll\\Api-Controll.csproj|c:\\users\\asus\\source\\repos\\api-controll\\api-controll\\controllers\\rulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14AA31FB-8591-43CB-B7A2-D96C86971699}|Api-Controll\\Api-Controll.csproj|solutionrelative:api-controll\\controllers\\rulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14AA31FB-8591-43CB-B7A2-D96C86971699}|Api-Controll\\Api-Controll.csproj|c:\\users\\asus\\source\\repos\\api-controll\\api-controll\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{14AA31FB-8591-43CB-B7A2-D96C86971699}|Api-Controll\\Api-Controll.csproj|solutionrelative:api-controll\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14AA31FB-8591-43CB-B7A2-D96C86971699}|Api-Controll\\Api-Controll.csproj|c:\\users\\asus\\source\\repos\\api-controll\\api-controll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14AA31FB-8591-43CB-B7A2-D96C86971699}|Api-Controll\\Api-Controll.csproj|solutionrelative:api-controll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Api-Controll\\Api-Controll\\appsettings.json",
+              "RelativeDocumentMoniker": "Api-Controll\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Api-Controll\\Api-Controll\\appsettings.json",
+              "RelativeToolTip": "Api-Controll\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T04:16:10.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Api-Controll\\Api-Controll\\Program.cs",
+              "RelativeDocumentMoniker": "Api-Controll\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Api-Controll\\Api-Controll\\Program.cs",
+              "RelativeToolTip": "Api-Controll\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T03:57:39.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Api-Controll\\Api-Controll\\Dockerfile",
+              "RelativeDocumentMoniker": "Api-Controll\\Dockerfile",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Api-Controll\\Api-Controll\\Dockerfile",
+              "RelativeToolTip": "Api-Controll\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-12T03:29:30.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RulesController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Api-Controll\\Api-Controll\\Controllers\\RulesController.cs",
+              "RelativeDocumentMoniker": "Api-Controll\\Controllers\\RulesController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Api-Controll\\Api-Controll\\Controllers\\RulesController.cs",
+              "RelativeToolTip": "Api-Controll\\Controllers\\RulesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T03:20:17.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

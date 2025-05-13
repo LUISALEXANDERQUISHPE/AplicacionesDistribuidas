@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: ./Api/Api-Controll
+    ports:
+      - "5000:5000"
+    depends_on:
+      - mongo
+    networks:
+      - red_app
+
+  squid:
+    image: ubuntu/squid
+    ports:
+      - "3128:3128"
+    volumes:
+      - ./squid/squid.conf:/etc/squid/squid.conf
+      - ./squid/bad_words.txt:/etc/squid/bad_words.txt
+      - ./squid/blocked_sites.txt:/etc/squid/blocked_sites.txt
+    networks:
+      - red_app
+
+  mongo:
+    image: mongo
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - red_app
+
+volumes:
+  mongo_data:
+
+networks:
+  red_app:
